@@ -16,6 +16,12 @@ dist-ssr
 .nitro
 *.local
 
+# Keep generated TanStack/Output artifacts visible in the repo
+!.output/
+!.output/**
+!.tanstack/
+!.tanstack/**
+
 # Wrangler / Cloudflare
 .wrangler/
 .dev.vars
