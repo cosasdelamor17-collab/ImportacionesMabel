@@ -1,0 +1,1 @@
+var e=`/assets/prod-laptop1-Admryjhf.jpg`,t=`/assets/prod-laptop2-DhDko2NC.jpg`,n=`/assets/prod-desktop1-DtqOubVL.jpg`,r=`/assets/hero-office-PM0nN-Sm.jpg`;export{e as i,n,t as r,r as t};
